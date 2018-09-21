@@ -1,0 +1,15 @@
+.button-row {
+  background-color: var(--btnBackground);
+  color: var(--btnColor);
+}
+
+button {
+  margin: 15px;
+
+}
+
+.logo {
+  background-image: var(--logoUrl);
+  background-repeat: no-repeat;
+  background-position: center;
+}

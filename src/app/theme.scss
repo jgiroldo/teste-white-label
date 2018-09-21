@@ -1,0 +1,11 @@
+// default colors
+.theme-wrapper {
+  --btnBackground: #fff;
+  --btnColor: #fff;
+}
+
+$variables: (
+  --btnBackground: var(--btnBackground),
+  --btnColor: var(--btnColor),
+  --logoUrl: var(--logoUrl),
+  );
